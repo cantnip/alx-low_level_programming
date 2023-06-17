@@ -1,11 +1,13 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
 * main - entry point
 * Description: Printz from a to z
 * Return: 0
 */
+
 int main(void)
 
 {
