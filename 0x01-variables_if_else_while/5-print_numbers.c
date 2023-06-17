@@ -11,11 +11,9 @@ int main(void)
 {
 	int i;
 
-	for (i = 0; i < 26; i++)
+	for (i = 0; i < 10; i++)
 	{
-		if ('a' + i == 'e' || 'a' + i == 'q')
-			continue;
-		putchar('a' + i);
+		putchar('0' + i);
 	}
 
 	putchar('\n');
