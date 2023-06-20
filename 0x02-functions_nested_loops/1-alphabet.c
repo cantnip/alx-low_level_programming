@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- * main - Entry point
- * Description:"print_alphabet - make the alphabet"
- * Return: Always 0
+ * print_alphabet - make the alphabet
+ * Return: void
  */
 
 void print_alphabet(void)
@@ -15,5 +14,5 @@ void print_alphabet(void)
 	{
 	_putchar(c);
 	}
-	_putchar('\n')
+	_putchar('\n');
 }
