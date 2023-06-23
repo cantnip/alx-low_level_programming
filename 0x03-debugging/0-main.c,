@@ -1,0 +1,12 @@
+/**
+* _isupper - chec if uppercase
+* @c: character to be checked
+* description: check if uppercase
+* return: 1 if c is uppercase, 0 otherwise
+*/
+
+int _isupper(int c)
+
+{
+	return (c >= 'A' && c <= 'z');
+}
