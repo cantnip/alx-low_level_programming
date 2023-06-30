@@ -1,4 +1,4 @@
-**
+/**
 * _strcmp - compares 2 str
 * @s1: string 1
 * @s2: string 2
