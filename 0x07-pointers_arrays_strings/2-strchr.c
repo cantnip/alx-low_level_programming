@@ -1,4 +1,4 @@
-#include "main.h"
+i#include "main.h"
 /**
 * _strchr - returns the adress of the char in str
 * @s: string
